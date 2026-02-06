@@ -30,13 +30,7 @@ Dad of two. Shipping side projects at night. Writing about engineering & leaders
 
 - 🏕️ [**Code Cabin**](https://codecabin.dev) — Engineering management, leadership & lessons learned
 - 📝 [**Daily Dev Tips**](https://daily-dev-tips.com) — 2000+ web dev tutorials (2020-2024)
-
----
-
-### 📊 Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=rebelchris&theme=dracula&hide_border=true" />
-
+  
 ---
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="300" alt="Chris Bongers's Dev Card"/></a>
