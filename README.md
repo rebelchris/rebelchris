@@ -9,7 +9,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-Dad of two. Shipping side projects at night. Writing about it at [daily-dev-tips.com](https://daily-dev-tips.com) — 2000+ articles and counting.
+Dad of two. Shipping side projects at night. Writing about engineering & leadership at [codecabin.dev](https://codecabin.dev).
 
 ---
 
@@ -26,11 +26,10 @@ Dad of two. Shipping side projects at night. Writing about it at [daily-dev-tips
 
 ---
 
-### ✍️ Latest from the Blog
+### ✍️ Writing
 
-<!-- BLOG-POST-LIST:START -->
-Check out [daily-dev-tips.com](https://daily-dev-tips.com) for web dev tips, tutorials, and side project stories.
-<!-- BLOG-POST-LIST:END -->
+- 🏕️ [**Code Cabin**](https://codecabin.dev) — Engineering management, leadership & lessons learned
+- 📝 [**Daily Dev Tips**](https://daily-dev-tips.com) — 2000+ web dev tutorials (2020-2024)
 
 ---
 
@@ -47,5 +46,5 @@ Check out [daily-dev-tips.com](https://daily-dev-tips.com) for web dev tips, tut
 **Currently:** Shipping apps, raising kids, moving to South Africa 🇿🇦
 
 [![Twitter](https://img.shields.io/badge/-@BongersChris1-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/BongersChris1)
-[![Blog](https://img.shields.io/badge/-daily--dev--tips.com-FF5722?style=flat-square&logo=hashnode&logoColor=white)](https://daily-dev-tips.com)
+[![Blog](https://img.shields.io/badge/-codecabin.dev-2D3748?style=flat-square&logo=hashnode&logoColor=white)](https://codecabin.dev)
 [![LinkedIn](https://img.shields.io/badge/-Chris%20Bongers-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisbongers/)
