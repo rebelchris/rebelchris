@@ -19,6 +19,7 @@ Dad of two. Shipping side projects at night. Writing about engineering & leaders
 |---------|-------------|
 | 🎯 [**DadQuests**](https://dadquests.app) | Gamified fatherhood — turn quality time with your kids into quests and level up as a dad |
 | 📚 [**Tiny Words**](https://tinywordsapp.com) | Big words for tiny humans — teach your toddler vocabulary they won't hear at preschool |
+| 🤙 [**Recallect**](https://github.com/rebelchris/recallect) | Open source personal CRM for managing your network and staying in touch with the people who matter |
 | 🔍 [**susscore**](https://susscore.com) | Paste a URL, get an instant scam score. 11 security checks in seconds |
 | 🎭 [**JudgeMyFace**](https://judgemyface.com) | AI-powered face analysis — get roasted, hyped, or find your celebrity lookalike |
 | 👴 [**Baldify Me**](https://baldify.me) | See yourself bald before committing to the razor |
